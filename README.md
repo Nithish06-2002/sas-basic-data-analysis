@@ -22,7 +22,7 @@ Only code is uploaded due to academic environment limitations.
 - SQL-based aggregation in SAS
 
 ## Files in This Repository
-- `analysis.sas` – SAS program containing all analysis steps
+- `sas_basic_analysis.sas` – SAS program containing all analysis steps
 
 ## Notes
 - No datasets are uploaded as SASHELP datasets are available by default in SAS Studio.
